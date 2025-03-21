@@ -31,8 +31,8 @@ DiscordVoteBot/
 ### 步驟 1: 複製專案
 
 ```bash
-git clone https://github.com/yourusername/discord-game-poll-bot.git
-cd discord-game-poll-bot
+git clone https://github.com/howardtuan/DiscordVoteBot.git
+cd DiscordVoteBot
 ```
 
 ### 步驟 2: 設置虛擬環境
