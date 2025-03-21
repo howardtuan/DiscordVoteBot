@@ -14,7 +14,7 @@
 ## 檔案結構
 
 ```
-discord-game-poll-bot/
+DiscordVoteBot/
 ├── .env.example           # 環境變數範例檔案
 ├── bot.py                 # 機器人主程式
 ├── requirements.txt       # 相依套件清單
